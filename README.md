@@ -1,7 +1,9 @@
 # JitPay
 
 H2 database URL access, no password required:
+
 http://localhost:8080/h2-console/
+
 username : sa
 
 ______________________________________________________________________________________________________________________________
